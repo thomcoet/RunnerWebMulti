@@ -1,0 +1,21 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+canvas {
+  background-color: #f0f0f0;
+  margin-top: 20px;
+}
+
+.scoreboard {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.scoreboard div {
+  font-size: 18px;
+  font-weight: bold;
+}
